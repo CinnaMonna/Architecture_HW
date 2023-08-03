@@ -1,6 +1,6 @@
-package project1.ModelElements;
+package project1.modelElements;
 
 public class PoligonalModel {
-    public Poligon Poligons;
-    public Texture Textures;
+    public Poligon poligons;
+    public Texture textures;
 }

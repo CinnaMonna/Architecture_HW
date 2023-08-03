@@ -1,5 +1,5 @@
-package project1.InMemoryModel;
+package project1.inMemoryModel;
 
 public interface IModelChanger {
-    public void NotifyChange(IModelChanger sender);
+    public void notifyChange(IModelChanger sender);
 }

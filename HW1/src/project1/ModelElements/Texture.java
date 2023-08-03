@@ -1,4 +1,4 @@
-package project1.ModelElements;
+package project1.modelElements;
 
 public class Texture {
 }

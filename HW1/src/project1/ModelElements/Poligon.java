@@ -1,5 +1,5 @@
-package project1.ModelElements;
+package project1.modelElements;
 
 public class Poligon {
-    public Point3D Points;
+    public Point3D points;
 }

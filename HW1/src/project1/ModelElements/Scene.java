@@ -1,9 +1,9 @@
-package project1.ModelElements;
+package project1.modelElements;
 
 public class Scene {
-    public int Id;
-    public PoligonalModel Models;
-    public Flash Flashes;
+    public int id;
+    public PoligonalModel models;
+    public Flash flashes;
 
     public Type method1(Type t){
 
@@ -11,6 +11,6 @@ public class Scene {
 
     public Type method2(Type t1, Type t2){
 
-    };
+    }
 
 }
