@@ -13,7 +13,7 @@ public class ModelStore implements IModelChanger, IModelChangedObserver {
     private IModelChangedObserver changeObserves;
 
     public Scene GetScene(int n) {
-        return Scenes;
+
     }
 
     @java.lang.Override
